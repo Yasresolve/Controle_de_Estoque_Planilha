@@ -1,1 +1,3 @@
-# Controle_de_Estoque_Planilha
+# Planilha: Controle de Estoque
+
+Esse repositorio de contagem de Estoque semanal. 
